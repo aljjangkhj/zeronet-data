@@ -19,6 +19,188 @@
       "url": "packs/kr-civil-defense.json",
       "source": "행정안전부 민방위대피시설 (data.go.kr)",
       "license": "공공데이터포털 이용허락범위 제한 없음"
+    },
+    {
+      "id": "osm-at",
+      "version": 1,
+      "country": "AT",
+      "names": {
+        "en": "AT: hospitals, drinking water, assembly points (OSM)",
+        "ko": "AT: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "AT：病院・給水所・避難集合場所（OSM）",
+        "es": "AT: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "AT: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "AT: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 8864,
+      "size": 119368,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-at.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-ch",
+      "version": 1,
+      "country": "CH",
+      "names": {
+        "en": "CH: hospitals, drinking water, assembly points (OSM)",
+        "ko": "CH: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "CH：病院・給水所・避難集合場所（OSM）",
+        "es": "CH: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "CH: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "CH: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 15666,
+      "size": 202372,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-ch.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-de",
+      "version": 1,
+      "country": "DE",
+      "names": {
+        "en": "DE: hospitals, drinking water, assembly points (OSM)",
+        "ko": "DE: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "DE：病院・給水所・避難集合場所（OSM）",
+        "es": "DE: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "DE: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "DE: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 16184,
+      "size": 263068,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-de.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-jp",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "en": "JP: hospitals, drinking water, assembly points (OSM)",
+        "ko": "JP: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "JP：病院・給水所・避難集合場所（OSM）",
+        "es": "JP: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "JP: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "JP: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 20415,
+      "size": 406984,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-jp.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-kr",
+      "version": 1,
+      "country": "KR",
+      "names": {
+        "en": "KR: hospitals, drinking water, assembly points (OSM)",
+        "ko": "KR: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "KR：病院・給水所・避難集合場所（OSM）",
+        "es": "KR: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "KR: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "KR: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 6979,
+      "size": 142680,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-kr.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-mx",
+      "version": 1,
+      "country": "MX",
+      "names": {
+        "en": "MX: hospitals, drinking water, assembly points (OSM)",
+        "ko": "MX: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "MX：病院・給水所・避難集合場所（OSM）",
+        "es": "MX: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "MX: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "MX: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 4318,
+      "size": 100416,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-mx.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-ua",
+      "version": 1,
+      "country": "UA",
+      "names": {
+        "en": "UA: hospitals, drinking water, assembly points (OSM)",
+        "ko": "UA: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "UA：病院・給水所・避難集合場所（OSM）",
+        "es": "UA: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "UA: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "UA: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 6012,
+      "size": 128664,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-ua.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
     }
   ]
 }
