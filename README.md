@@ -5,14 +5,18 @@ ZERO-NET 앱이 내려받는 **오프라인 데이터 팩** 저장소예요. 앱
 - `index.json`: 팩 목록. 앱은 `https://raw.githubusercontent.com/aljjangkhj/zeronet-data/main/index.json`을 읽어요.
 - `packs/*.json`: 팩 파일(서명된 봉투). 앱은 ZERO-NET 서명 키로 서명된 팩만 설치해요.
 
-## 팩 올리는 방법
-팩은 앱 저장소(`zeronet`)의 도구로 만들고 소유자 PC에서 서명해요. 자세한 절차는 앱 저장소의 `docs/data_packs.md`.
+- `sources/`: 원본 데이터와 변환된 본문(**서명 전**, 앱이 읽지 않음).
+  - `sources/kr/mois_civil_defense_shelters.csv`: 행정안전부 민방위대피시설 원본(공공데이터포털)
+  - `sources/kr/kr-body.json`: 변환 결과(운영 중 17,214곳). 서명하면 `packs/kr-civil-defense.json`이 돼요.
 
+## 팩 올리는 방법 (소유자 PC, 비밀키 필요)
+앱 저장소(`zeronet`) 폴더에서:
 ```
-py tools/datapack.py build <본문.json> ..\zeronet-data\packs\<팩id>.json
-py tools/datapack.py index packs ..\zeronet-data\packs\*.json > ..\zeronet-data\index.json
+$env:ZERONET_PACK_KEY = "$env:USERPROFILE\zeronet_pack_key.pem"
+py tools/datapack.py publish ..\zeronet-data\sources\kr\kr-body.json ..\zeronet-data
 ```
-그다음 이 저장소에서 커밋·푸시하면 바로 배포돼요.
+→ `packs/kr-civil-defense.json`(서명된 팩)과 `index.json`(UTF-8)이 만들어져요. 그다음 이 저장소에서 커밋·푸시하면 바로 배포돼요.
+자세한 절차는 앱 저장소의 `docs/data_packs.md`.
 
 ## 데이터 출처·라이선스
 | 팩 | 출처 | 라이선스 |
