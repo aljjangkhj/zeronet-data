@@ -2,6 +2,214 @@
   "format": 1,
   "packs": [
     {
+      "id": "jp-chubu",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "中部：指定緊急避難場所・指定避難所",
+        "en": "Japan Chubu: evacuation sites & shelters",
+        "ko": "일본 주부: 지정긴급피난장소·피난소",
+        "es": "Japón Chubu: lugares de evacuación y albergues",
+        "de": "Japan Chubu: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Тюбу: місця евакуації та пункти розміщення"
+      },
+      "count": 40103,
+      "size": 918874,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-chubu.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-chugoku",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "中国地方：指定緊急避難場所・指定避難所",
+        "en": "Japan Chugoku: evacuation sites & shelters",
+        "ko": "일본 주고쿠: 지정긴급피난장소·피난소",
+        "es": "Japón Chugoku: lugares de evacuación y albergues",
+        "de": "Japan Chugoku: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Тюґоку: місця евакуації та пункти розміщення"
+      },
+      "count": 17351,
+      "size": 396076,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-chugoku.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-hokkaido",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "北海道：指定緊急避難場所・指定避難所",
+        "en": "Japan Hokkaido: evacuation sites & shelters",
+        "ko": "일본 홋카이도: 지정긴급피난장소·피난소",
+        "es": "Japón Hokkaido: lugares de evacuación y albergues",
+        "de": "Japan Hokkaido: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Хоккайдо: місця евакуації та пункти розміщення"
+      },
+      "count": 12968,
+      "size": 312385,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-hokkaido.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-kanto",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "関東：指定緊急避難場所・指定避難所",
+        "en": "Japan Kanto: evacuation sites & shelters",
+        "ko": "일본 간토: 지정긴급피난장소·피난소",
+        "es": "Japón Kanto: lugares de evacuación y albergues",
+        "de": "Japan Kanto: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Канто: місця евакуації та пункти розміщення"
+      },
+      "count": 30408,
+      "size": 661394,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-kanto.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-kinki",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "近畿：指定緊急避難場所・指定避難所",
+        "en": "Japan Kinki (Kansai): evacuation sites & shelters",
+        "ko": "일본 긴키(간사이): 지정긴급피난장소·피난소",
+        "es": "Japón Kinki (Kansai): lugares de evacuación y albergues",
+        "de": "Japan Kinki (Kansai): Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Кінкі (Кансай): місця евакуації та пункти розміщення"
+      },
+      "count": 31987,
+      "size": 724834,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-kinki.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-kyushu",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "九州・沖縄：指定緊急避難場所・指定避難所",
+        "en": "Japan Kyushu & Okinawa: evacuation sites & shelters",
+        "ko": "일본 규슈·오키나와: 지정긴급피난장소·피난소",
+        "es": "Japón Kyushu y Okinawa: lugares de evacuación y albergues",
+        "de": "Japan Kyushu & Okinawa: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Кюсю й Окінава: місця евакуації та пункти розміщення"
+      },
+      "count": 27051,
+      "size": 620971,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-kyushu.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-shikoku",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "四国：指定緊急避難場所・指定避難所",
+        "en": "Japan Shikoku: evacuation sites & shelters",
+        "ko": "일본 시코쿠: 지정긴급피난장소·피난소",
+        "es": "Japón Shikoku: lugares de evacuación y albergues",
+        "de": "Japan Shikoku: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Сікоку: місця евакуації та пункти розміщення"
+      },
+      "count": 13641,
+      "size": 327820,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-shikoku.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
+      "id": "jp-tohoku",
+      "version": 1,
+      "country": "JP",
+      "names": {
+        "ja": "東北：指定緊急避難場所・指定避難所",
+        "en": "Japan Tohoku: evacuation sites & shelters",
+        "ko": "일본 도호쿠: 지정긴급피난장소·피난소",
+        "es": "Japón Tohoku: lugares de evacuación y albergues",
+        "de": "Japan Tohoku: Evakuierungsorte & Notunterkünfte",
+        "uk": "Японія Тохоку: місця евакуації та пункти розміщення"
+      },
+      "count": 25013,
+      "size": 589795,
+      "notes": {
+        "ja": "指定緊急避難場所は災害から命を守るために緊急に避難する場所、指定避難所は避難生活を送る場所です。市町村長が指定した情報です。最新でない場合や未掲載の場合があるため、必ず市町村に確認してください。指定緊急避難場所は災害の種類ごとに指定されています（表示された災害の種類を確認してください）。",
+        "en": "Designated by local municipalities. It may be out of date or incomplete — always check with your municipality. Each site is designated only for specific hazards (check the hazard types shown). Designated evacuation sites are where you flee to save your life; designated shelters are where you stay afterwards.",
+        "ko": "시정촌(지자체)이 지정한 정보예요. 최신이 아니거나 빠진 곳이 있을 수 있으니 꼭 해당 지자체에 확인하세요. 각 장소는 특정 재해에만 지정돼 있어요(표시된 재해 종류를 확인하세요). 지정긴급피난장소는 재해에서 목숨을 지키려고 급히 피하는 곳이고, 지정피난소는 피난 생활을 하는 곳이에요.",
+        "es": "Designados por los municipios. Pueden estar desactualizados o incompletos: confírmelo siempre con su municipio. Cada lugar está designado solo para ciertos peligros (compruebe los tipos indicados). Los lugares de evacuación son para huir y salvar la vida; los albergues son para quedarse después.",
+        "de": "Von den Gemeinden festgelegt. Die Angaben können veraltet oder unvollständig sein – prüfen Sie sie immer bei Ihrer Gemeinde. Jeder Ort ist nur für bestimmte Gefahren vorgesehen (angezeigte Gefahrenarten beachten). Evakuierungsorte dienen der sofortigen Flucht, Notunterkünfte dem Aufenthalt danach.",
+        "uk": "Визначено місцевими органами влади. Дані можуть бути застарілими чи неповними — завжди перевіряйте в муніципалітеті. Кожне місце призначене лише для певних небезпек (дивіться вказані типи). Місця евакуації — щоб негайно врятуватися; пункти розміщення — щоб жити там після цього."
+      },
+      "url": "packs/jp-tohoku.json",
+      "source": "国土地理院 指定緊急避難場所データ (GSI Japan)",
+      "license": "国土地理院コンテンツ利用規約 / GSI Content Terms of Use"
+    },
+    {
       "id": "kr-civil-defense",
       "version": 1,
       "country": "KR",
