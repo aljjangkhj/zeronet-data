@@ -1,4 +1,24 @@
 {
   "format": 1,
-  "packs": []
+  "packs": [
+    {
+      "id": "kr-civil-defense",
+      "version": 1,
+      "country": "KR",
+      "names": {
+        "en": "South Korea civil defense shelters",
+        "ko": "민방위 대피시설",
+        "ja": "韓国 民防衛待避施設",
+        "es": "Refugios de defensa civil de Corea del Sur",
+        "de": "Zivilschutzräume Südkorea",
+        "uk": "Укриття цивільної оборони Південної Кореї"
+      },
+      "count": 17214,
+      "size": 405510,
+      "notes": {},
+      "url": "packs/kr-civil-defense.json",
+      "source": "행정안전부 민방위대피시설 (data.go.kr)",
+      "license": "공공데이터포털 이용허락범위 제한 없음"
+    }
+  ]
 }
