@@ -99,6 +99,58 @@
       "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
     },
     {
+      "id": "osm-es",
+      "version": 1,
+      "country": "ES",
+      "names": {
+        "en": "ES: hospitals, drinking water, assembly points (OSM)",
+        "ko": "ES: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "ES：病院・給水所・避難集合場所（OSM）",
+        "es": "ES: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "ES: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "ES: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 46134,
+      "size": 644280,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-es.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-gb",
+      "version": 1,
+      "country": "GB",
+      "names": {
+        "en": "GB: hospitals, drinking water, assembly points (OSM)",
+        "ko": "GB: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "GB：病院・給水所・避難集合場所（OSM）",
+        "es": "GB: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "GB: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "GB: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 4554,
+      "size": 82168,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-gb.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
       "id": "osm-jp",
       "version": 1,
       "country": "JP",
@@ -199,6 +251,110 @@
         "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
       },
       "url": "packs/osm-ua.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-us-ak-hi",
+      "version": 1,
+      "country": "US",
+      "names": {
+        "en": "US Alaska, Hawaii & Pacific: hospitals, drinking water, assembly points (OSM)",
+        "ko": "미국 알래스카·하와이·태평양: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "米国アラスカ・ハワイ・太平洋：病院・給水所・避難集合場所（OSM）",
+        "es": "EE. UU. Alaska, Hawái y Pacífico: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "USA Alaska, Hawaii & Pazifik: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "США Аляска, Гаваї й Тихий океан: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 478,
+      "size": 10742,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-us-ak-hi.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-us-central",
+      "version": 1,
+      "country": "US",
+      "names": {
+        "en": "US Central: hospitals, drinking water, assembly points (OSM)",
+        "ko": "미국 중부: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "米国中部：病院・給水所・避難集合場所（OSM）",
+        "es": "EE. UU. Centro: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "USA Mitte: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "США Центр: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 8817,
+      "size": 149816,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-us-central.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-us-east",
+      "version": 1,
+      "country": "US",
+      "names": {
+        "en": "US East: hospitals, drinking water, assembly points (OSM)",
+        "ko": "미국 동부: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "米国東部：病院・給水所・避難集合場所（OSM）",
+        "es": "EE. UU. Este: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "USA Ost: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "США Схід: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 12710,
+      "size": 205229,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-us-east.json",
+      "source": "OpenStreetMap",
+      "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
+    },
+    {
+      "id": "osm-us-west",
+      "version": 1,
+      "country": "US",
+      "names": {
+        "en": "US West: hospitals, drinking water, assembly points (OSM)",
+        "ko": "미국 서부: 병원·식수대·비상 집결지 (OSM)",
+        "ja": "米国西部：病院・給水所・避難集合場所（OSM）",
+        "es": "EE. UU. Oeste: hospitales, agua potable, puntos de reunión (OSM)",
+        "de": "USA West: Krankenhäuser, Trinkwasser, Sammelplätze (OSM)",
+        "uk": "США Захід: лікарні, питна вода, місця збору (OSM)"
+      },
+      "count": 14064,
+      "size": 199637,
+      "notes": {
+        "en": "Community-mapped data from OpenStreetMap. It may be incomplete or out of date.",
+        "ko": "OpenStreetMap 사용자들이 만든 지도 데이터예요. 빠진 곳이 있거나 최신이 아닐 수 있어요.",
+        "ja": "OpenStreetMapの利用者が作成した地図データです。不完全または古い場合があります。",
+        "es": "Datos cartográficos colaborativos de OpenStreetMap. Pueden estar incompletos o desactualizados.",
+        "de": "Von der OpenStreetMap-Community erfasste Daten. Sie können unvollständig oder veraltet sein.",
+        "uk": "Дані OpenStreetMap, створені спільнотою. Вони можуть бути неповними або застарілими."
+      },
+      "url": "packs/osm-us-west.json",
       "source": "OpenStreetMap",
       "license": "ODbL 1.0 — © OpenStreetMap contributors (openstreetmap.org/copyright)"
     }
