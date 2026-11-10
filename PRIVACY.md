@@ -1,6 +1,6 @@
 # Zero-Net (제로-넷) 개인정보처리방침 / Privacy Policy
 
-시행일 / Effective date: 2026-11-04
+시행일 / Effective date: 2026-11-10
 문의 / Contact: kimpresent54@gmail.com
 
 [한국어](#한국어) · [English](#english)
@@ -29,7 +29,10 @@ Zero-Net(이하 "앱")은 인터넷이 끊긴 재난·비상 상황에서도 휴
 ### 3. 인터넷에 연결될 때
 - **비상 데이터 팩 다운로드**: 사용자가 다운로드를 누르면 GitHub(raw.githubusercontent.com)에서 대피소 등 공개 데이터를 받아요. 이때 GitHub이 접속 기록(IP 주소 등)을 처리할 수 있으며 [GitHub 개인정보처리방침](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)이 적용돼요. 개발자에게는 아무 정보도 전달되지 않아요.
 - **광고(Google AdMob)**: 데이터 팩을 받을 때 사용자가 고르면 보상형 광고가 나와요. Google은 광고 제공·측정·부정 방지를 위해 광고 ID, IP 주소, 기기 정보 등을 수집할 수 있어요. 자세한 내용은 [Google이 파트너 사이트·앱의 정보를 사용하는 방법](https://policies.google.com/technologies/partner-sites)을 확인하세요. 유럽경제지역·영국·스위스 사용자에게는 광고 전에 동의 창이 나와요. 휴대폰 설정에서 광고 ID를 재설정하거나 삭제(맞춤 광고 끄기)할 수 있어요.
-- **제휴 링크(아마존 어소시에이트)**: 생존 배낭 화면의 제휴 카드를 누르면 외부 브라우저에서 아마존 사이트가 열리고, 그 이후에는 아마존의 개인정보처리방침이 적용돼요. 앱은 구매 정보를 받지 않아요.
+- **제휴 링크(아마존 어소시에이트)**: 생존 배낭 화면의 '둘러보기'를 누르면 외부 브라우저에서 아마존 사이트가 열리고, 그 이후에는 아마존의 개인정보처리방침이 적용돼요. 앱은 구매 정보를 받지 않아요.
+
+- **개발자 응원하기(인앱 결제)**: 앱 정보 화면에서 사용자가 응원 상품을 고르면 Apple App Store 또는 Google Play가 결제를 처리해요. 결제 수단·카드 정보는 각 스토어가 관리하고 개발자에게 전달되지 않으며, 앱은 결제가 완료됐는지만 확인해요. 응원해도 앱 기능은 똑같아요.
+- **광고 지역**: 데이터 팩 광고는 대한민국에서만 보여요(위치는 기기 안에서만 판단하고 서버로 보내지 않아요).
 
 ### 4. 근거리 메쉬(인터넷 없이 근처 휴대폰과 통신)
 - 메시지와 데이터 팩은 서버를 거치지 않고 근처(약 100m) 휴대폰에 직접 전달되고, 다른 휴대폰을 거쳐 더 멀리 전달될 수 있어요.
@@ -73,7 +76,10 @@ The following stays in the app's private storage on your phone and is never sent
 ### 3. When you are online
 - **Emergency data packs**: when you tap Download, public data (shelters, etc.) is downloaded from GitHub (raw.githubusercontent.com). GitHub may process access logs such as your IP address under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). Nothing is sent to the developer.
 - **Ads (Google AdMob)**: when downloading a data pack, a rewarded ad is shown if you choose to watch it. Google may collect the advertising ID, IP address and device information to serve and measure ads and prevent fraud. See [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites). Users in the EEA, UK and Switzerland see a consent form before ads. You can reset or delete your advertising ID (opt out of personalised ads) in your phone settings.
-- **Affiliate links (Amazon Associates)**: tapping the partner card on the bag screen opens Amazon in your browser, where Amazon's privacy notice applies. The app does not receive any purchase information.
+- **Affiliate links (Amazon Associates)**: tapping "Browse" on the bag screen opens Amazon in your browser, where Amazon's privacy notice applies. The app does not receive any purchase information.
+
+- **Supporting the developer (in-app purchase)**: if you choose a support item on the About screen, the payment is processed by the Apple App Store or Google Play. Payment methods and card details are handled by the store and are never shared with the developer; the app only checks whether the purchase was completed. All features stay the same whether or not you support.
+- **Ad regions**: data pack ads are shown only in the Republic of Korea (this is decided on the device; your location is not sent to any server).
 
 ### 4. Nearby mesh (offline, phone to phone)
 - Messages and data packs go directly to nearby phones (about 100 m) without any server and may be relayed further by other phones.
